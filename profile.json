@@ -1,0 +1,50 @@
+{
+  "personal_info": {
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "phone": "+1-555-0123",
+    "address": "123 Main St, Cityville, ST 12345",
+    "linkedin": "linkedin.com/in/janedoe",
+    "github": "github.com/janedoe"
+  },
+  "summary": "Experienced software engineer specializing in backend development and accessibility. Passionate about building inclusive and robust systems.",
+  "skills": [
+    "Python",
+    "JavaScript",
+    "SQL",
+    "Accessibility Standards (WCAG)",
+    "System Design"
+  ],
+  "experience": [
+    {
+      "company": "Tech Solutions Inc.",
+      "role": "Senior Software Engineer",
+      "start_date": "2020-01",
+      "end_date": "Present",
+      "responsibilities": [
+        "Led a team of 5 engineers to re-architect the core backend services, resulting in a 30% performance improvement.",
+        "Championed accessibility initiatives, ensuring all internal tools met WCAG 2.1 AA standards.",
+        "Mentored junior developers and conducted code reviews."
+      ]
+    },
+    {
+      "company": "Web Innovations LLC",
+      "role": "Software Engineer",
+      "start_date": "2017-06",
+      "end_date": "2019-12",
+      "responsibilities": [
+        "Developed and maintained RESTful APIs using Python and Django.",
+        "Collaborated with frontend developers to integrate APIs into web applications.",
+        "Wrote comprehensive unit and integration tests."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Technology",
+      "degree": "Bachelor of Science in Computer Science",
+      "start_date": "2013-09",
+      "end_date": "2017-05"
+    }
+  ]
+}
